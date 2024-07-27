@@ -25,7 +25,7 @@ function calcularSaldoERank(vitorias, derrotas) {
 }
 
 // Exemplo de uso da função
-const vitorias = 75;  // número de vitórias
-const derrotas = 25;  // número de derrotas
+const vitorias = 72;  // número de vitórias
+const derrotas = 28;  // número de derrotas
 
 calcularSaldoERank(vitorias, derrotas);
